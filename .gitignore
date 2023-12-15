@@ -20,7 +20,6 @@ mySVM.joblib
 .ipynb_checkpoints
 .ipynb_checkpoints/*
 *.ipynb_checkpoints*
-data
 *.json
 *.log
 *.txt
