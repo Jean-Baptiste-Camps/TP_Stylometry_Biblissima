@@ -1,7 +1,7 @@
 # TP Stylometry Biblissima+ Cluster 7
 
 Binder document: 
-[https://notebooks.gesis.org/binder/jupyter/user/jean-baptiste-c-etry_biblissima-ed1hqzdn/lab](https://notebooks.gesis.org/binder/jupyter/user/jean-baptiste-c-etry_biblissima-ed1hqzdn/lab)
+[https://notebooks.gesis.org/binder/jupyter/user/jean-baptiste-c-etry_biblissima-ed1hqzdn/lab/tree/TP_supervised.ipynb](https://mybinder.org/v2/gh/Jean-Baptiste-Camps/TP_Stylometry_Biblissima/23fe34b00e4b8aeadb8d3ed11701b81615e531f2?urlpath=lab%2Ftree%2FTP_supervised.ipynb)
 
 
 
