@@ -1,3 +1,10 @@
+# TP Stylometry Biblissima+ Cluster 7
+
+Binder document: 
+[https://notebooks.gesis.org/binder/jupyter/user/jean-baptiste-c-etry_biblissima-ed1hqzdn/lab](https://notebooks.gesis.org/binder/jupyter/user/jean-baptiste-c-etry_biblissima-ed1hqzdn/lab)
+
+
+
 # SUPERvised STYLometry
 
 ## Installing
